@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Montserrat:wght@100;400&family=Roboto:wght@100;300;400&display=swap");
+
+// font-family: 'Black Ops One', cursive;
+// font-family: 'Montserrat', sans-serif;
+// font-family: 'Roboto', sans-serif;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
+
+.container {
+  width: 100vw;
+  height: 2400px;
+  background-image: url("../images/furge-fashion-demowithGlitch.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  overflow: hidden;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+
+#furge {
+    width: 100%;
+    height: auto;
+}
+}
